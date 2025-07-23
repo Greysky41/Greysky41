@@ -1,7 +1,8 @@
 <!-- 🔠 Typing Animation Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Hi%2C+I'm+Joshua+👋;Mechatronics+Engineering+Student;Creative+Coder+%7C+AI+Explorer+%7C+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&width=435&lines=Hi%2C+I'm+Joshua+👋;Mechatronics+Engineering+Student;Creative+Coder+%7C+AI+Explorer+%7C+Builder" />
 </p>
+
 
 <!-- 🔗 Quick Info Badges -->
 <p align="center">
