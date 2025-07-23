@@ -20,6 +20,8 @@ Hey! I'm **Joshua**, a Mechatronics Engineering student with a passion for robot
 
 ## 💻 Tech Stack
 
+---
+
 ### 🔧 Programming Languages & Tools
 
 <p align="center">
@@ -32,6 +34,8 @@ Hey! I'm **Joshua**, a Mechatronics Engineering student with a passion for robot
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 </p>
+
+---
 
 **Languages:** Python · JavaScript · HTML · CSS · C · Java  
 **Tools & Frameworks:** Arduino · Node.js · React · Git · Figma  
