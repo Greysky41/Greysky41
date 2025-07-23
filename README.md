@@ -1,8 +1,7 @@
 <!-- 🔠 Typing Animation Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&width=435&lines=Hi%2C+I'm+Joshua+👋;Mechatronics+Engineering+Student;Creative+Coder+%7C+AI+Explorer+%7C+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&width=550&lines=Hi%2C+I'm+Joshua+👋;Mechatronics+Engineering+Student;Creative+Coder+%7C+AI+Explorer+%7C+Builder;Solving+Real-World+Problems+with+Tech;Engineer+with+Code%2C+Design+%26+Vision" />
 </p>
-
 
 <!-- 🔗 Quick Info Badges -->
 <p align="center">
@@ -66,13 +65,12 @@ Hey! I'm **Joshua**, a Mechatronics Engineering student with a passion for robot
 
 ---
 
-## 🌱 Currently Learning
+## 📌 Highlights
 
-- Backend dev with Node.js & Express  
-- Robotics + Control systems  
-- Embedded AI on microcontrollers
+- 🏆 Hackathon Finalist – 2024 Embedded Systems Challenge  
+- ✅ Completed “AI for Everyone” by Andrew Ng (Coursera)  
+- 🔧 Built & deployed 6+ hardware/software projects from scratch  
 
----
 
 ## 📫 Contact Me
 
@@ -81,5 +79,7 @@ Hey! I'm **Joshua**, a Mechatronics Engineering student with a passion for robot
 - 📧 Email: joshua.greysky123@gmail.com  
 
 ---
-
-<p align="center">Let’s build something amazing 🚀</p>
+<p align="center">
+  <em>"Engineering is not just building — it's solving."</em><br/>
+  <strong>— Joshua Eze-Ochia</strong>
+</p>
