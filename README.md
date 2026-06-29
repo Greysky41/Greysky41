@@ -1,21 +1,21 @@
 <div align="center">
 
 <!-- Cyber Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,35:005CFF,70:001F54,100:000814&height=220&section=header&text=Joshua%20Eze-Ochia&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Programmer%20•%20Mechatronics%20Engineer%20•%20Robotics%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:200000,35:A00000,70:C1121F,100:FFD700&height=220&section=header&text=Joshua%20Eze-Ochia&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Programmer%20%7C%20Mechatronics%20Engineering%20Student%20%7C%20Robotics%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Joshua+👋;Mechatronics+Engineering+Student;Python+Developer+%7C+Robotics+Builder;AI+%7C+Backend+Developer+%7C+CAD+Designer;Engineering+my+way+toward+the+future+⚡" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=FFD700&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Joshua+👋;Mechatronics+Engineering+Student;Python+Developer+%7C+Robotics+Builder;AI+%7C+Backend+Developer+%7C+CAD+Designer;Engineering+my+way+toward+the+future+⚡" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Greysky41&label=Profile+Views&color=00BFFF&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Greysky41&label=Profile+Views&color=5A0000&style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Federal%20University%20of%20Technology%20Owerri-0057B8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Federal%20University%20of%20Technology%20Owerri-A00000?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Mechatronics%20Engineering-00BFFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Mechatronics%20Engineering-C1121F?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Made%20in-Nigeria🇳🇬-008751?style=flat-square"/>
+<img src="https://img.shields.io/badge/Made%20in-Nigeria🇳🇬-D4AF37?style=flat-square"/>
 
 <img src="https://img.shields.io/github/followers/Greysky41?label=Followers&style=social"/>
 
@@ -149,27 +149,31 @@ Build technologies that improve people's lives through robotics and artificial i
 https://github.com/Greysky41?tab=repositories
 
 ---
+```md
+...
+```
 
-# 📊 GitHub Statistics
+ 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Greysky41&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greysky41&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Greysky41&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Greysky41">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Greysky41&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=FFD700&icon_color=C1121F&text_color=F8F8F2"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greysky41&layout=compact&hide_border=true&bg_color=00000000&title_color=FFD700&text_color=F8F8F2"/>
+</a>
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Greysky41&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://streak-stats.demolab.com?user=Greysky41&hide_border=true&background=00000000&ring=FFD700&fire=C1121F&currStreakLabel=FFD700&sideLabels=F8F8F2&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Greysky41&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"/>
 
 </div>
 ```
-````md
----
+
+
 
 # 🏆 Achievements
 
@@ -212,13 +216,13 @@ Currently Studying
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-High%20School%20Diploma-0057B8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-High%20School%20Diploma-5A0000?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/-Python%20Programming-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Python%20Programming-A00000?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/-Git%20&%20GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/-Git%20&%20GitHub-D4AF37?style=for-the-badge&logo=github"/>
 
-<img src="https://img.shields.io/badge/-Arduino%20Programming-00979D?style=for-the-badge&logo=arduino"/>
+<img src="https://img.shields.io/badge/-Arduino%20Programming-FFD700?style=for-the-badge&logo=arduino"/>
 
 </div>
 
@@ -323,158 +327,3 @@ If you like my work, consider leaving a ⭐ on one of my repositories.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,35:001F54,70:005CFF,100:00BFFF&height=140&section=footer"/>
 
 </div>
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-🥇 Built multiple real-world mechatronics projects
-
-🤖 Developed AI-powered computer vision systems
-
-⚙️ Designed mechanical components using professional CAD software
-
-💻 Built responsive web applications from scratch
-
-🎓 Mechatronics Engineering Student at FUTO
-
-🌍 Passionate about building technology that solves real-world problems
-
-</div>
-
----
-
-# 📚 Education
-
-```text
-🏫 Federal University of Technology Owerri (FUTO)
-
-Degree:
-Bachelor of Engineering (B.Eng)
-
-Field:
-Mechatronics Engineering
-
-Status:
-Currently Studying
-````
-
----
-
-# 📜 Certifications
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/-High%20School%20Diploma-0057B8?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/-Python%20Programming-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/-Git%20&%20GitHub-181717?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/-Arduino%20Programming-00979D?style=for-the-badge&logo=arduino"/>
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-* 🚀 Build an autonomous mobile robot
-
-* 🤖 Master Embedded Systems programming
-
-* 🧠 Learn ROS 2
-
-* 💻 Become a Full Stack Engineer
-
-* ⚙️ Design advanced robotic systems
-
-* 🌍 Contribute to Open Source
-
-* 🛰️ Build intelligent automation projects
-
-* 🎓 Graduate as an outstanding Mechatronics Engineer
-
----
-
-# 📈 Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Greysky41&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Greysky41/Greysky41/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-> **Note:** This animation requires a GitHub Action to generate automatically.
-
----
-
-# 💡 Fun Facts
-
-```python
-fun_facts = {
-
-    "favorite_language": "Python 🐍",
-
-    "currently_learning": ["C", "C++"],
-
-    "favorite_field": "Robotics",
-
-    "dream": "Build technology that changes lives.",
-
-    "coffee_level": "Depends on the deadline ☕"
-
-}
-```
-
----
-
-# 📬 Connect With Me
-
-<div align="center">
-
-<a href="mailto:joshua.greysky123@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://x.com/greysky41">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://www.tiktok.com/@greysky_41">
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 💭 Quotes
-
-*"Engineering isn't about building machines; it's about building possibilities."*
-
-*"Dreams stay dreams until you give them deadlines and discipline."*
-
-<br>
-
-### Thanks for stopping by!
-
-If you like my work, consider leaving a ⭐ on one of my repositories.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,35:001F54,70:005CFF,100:00BFFF&height=140&section=footer"/>
-
-</div>
-```
