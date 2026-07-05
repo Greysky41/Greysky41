@@ -141,7 +141,6 @@ Build technologies that improve people's lives through robotics and artificial i
 | 🤖 **Security Patrol Robot**                      | Autonomous surveillance robot capable of detecting human presence and monitoring restricted areas using computer vision. | Python • OpenCV • Arduino        |
 | 💡 **AI Smart Lighting System**                   | Object detection system that automatically switches lights based on human presence, improving energy efficiency.         | Python • OpenCV                  |
 | 💧 **Automatic Liquid Dispenser Vending Machine** | Contactless dispensing system designed for hygienic liquid distribution using embedded electronics.                      | Arduino • Sensors                |
-| 🎓 **School Management Website**                  | Responsive academic management platform for handling student records, results and administration.                        | HTML • CSS • JavaScript • Python |
 | 🎥 **Moving Dot Video Visualizer**                | Artistic video renderer that transforms videos into animated moving-dot visualizations using computer vision algorithms. | Python • OpenCV • Pygame         |
 | ⚙ **Mechanical CAD Designs**                      | Engineering assemblies, product concepts and precision mechanical designs built in Onshape, Fusion 360 and KiCad.        | CAD • PCB Design                 |
 
